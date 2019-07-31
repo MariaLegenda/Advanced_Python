@@ -1,0 +1,3 @@
+Server started with localhost:8000
+Client was detected 127.0.0.1:58542
+Client send valid request {'action': 'echo', 'time': 1564578896.033624, 'data': 'Test'}
