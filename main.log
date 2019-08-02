@@ -1,0 +1,8 @@
+Server started with localhost:8000
+Client was detected 127.0.0.1:58542
+Client send valid request {'action': 'echo', 'time': 1564578896.033624, 'data': 'Test'}
+2019-07-31 18:42:51,958 - INFO - Server started with localhost:8000
+2019-07-31 18:43:14,281 - INFO - Client was detected 127.0.0.1:60282
+2019-07-31 18:43:20,328 - INFO - Client send valid request {'action': 'echo', 'time': 1564587800.12181, 'data': 'test'}
+2019-07-31 18:43:20,329 - DEBUG - get_echo: {'action': 'echo', 'time': 1564587800.12181, 'data': 'test'}
+2019-07-31 18:43:20,330 - CRITICAL - Internal server error: name 'kwargs' is not defined
