@@ -6,3 +6,33 @@ Client send valid request {'action': 'echo', 'time': 1564578896.033624, 'data': 
 2019-07-31 18:43:20,328 - INFO - Client send valid request {'action': 'echo', 'time': 1564587800.12181, 'data': 'test'}
 2019-07-31 18:43:20,329 - DEBUG - get_echo: {'action': 'echo', 'time': 1564587800.12181, 'data': 'test'}
 2019-07-31 18:43:20,330 - CRITICAL - Internal server error: name 'kwargs' is not defined
+2019-08-06 10:20:20,781 - INFO - Server started with localhost:8000
+2019-08-06 10:21:14,066 - INFO - Client was detected 127.0.0.1:55471
+2019-08-06 10:21:19,618 - INFO - Client send valid request {'action': 'echo', 'time': 1565076079.449229, 'data': 'tast'}
+2019-08-06 10:21:19,619 - DEBUG - get_echo: {'action': 'echo', 'time': 1565076079.449229, 'data': 'tast'}
+2019-08-06 10:21:19,621 - CRITICAL - Internal server error: name 'kwargs' is not defined
+2019-08-06 10:22:12,461 - INFO - Client was detected 127.0.0.1:55473
+2019-08-06 10:22:19,540 - ERROR - Controller with action name test does not exist
+2019-08-06 10:22:41,766 - INFO - Client was detected 127.0.0.1:55475
+2019-08-06 10:22:53,237 - INFO - Client send valid request {'action': 'echo', 'time': 1565076173.236852, 'data': 'test'}
+2019-08-06 10:22:53,238 - DEBUG - get_echo: {'action': 'echo', 'time': 1565076173.236852, 'data': 'test'}
+2019-08-06 10:22:53,239 - CRITICAL - Internal server error: name 'kwargs' is not defined
+2019-08-06 10:46:43,524 - INFO - Client was detected 127.0.0.1:55843
+2019-08-06 10:46:49,147 - INFO - Client send valid request {'action': 'echo', 'time': 1565077609.146211, 'data': 'data'}
+2019-08-06 10:46:49,148 - DEBUG - get_echo: {'action': 'echo', 'time': 1565077609.146211, 'data': 'data'}
+2019-08-06 10:46:49,149 - CRITICAL - Internal server error: name 'kwargs' is not defined
+2019-08-06 11:05:01,274 - INFO - Server started with localhost:8000
+2019-08-06 11:05:58,637 - INFO - Client was detected 127.0.0.1:56010
+2019-08-06 11:08:31,049 - INFO - Server started with localhost:8000
+2019-08-06 11:08:43,604 - INFO - Client was detected 127.0.0.1:56015
+2019-08-06 11:46:06,828 - INFO - Server started with localhost:8000
+2019-08-06 11:46:14,995 - INFO - Client was detected 127.0.0.1:56283
+2019-08-06 11:54:09,348 - INFO - Server started with localhost:8000
+2019-08-06 11:54:32,273 - INFO - Client was detected 127.0.0.1:56440
+2019-08-06 11:57:29,052 - INFO - Server started with localhost:8000
+2019-08-06 11:57:36,298 - INFO - Client was detected 127.0.0.1:56466
+2019-08-06 12:05:08,134 - INFO - Server started with localhost:8000
+2019-08-06 12:05:15,979 - INFO - Client was detected 127.0.0.1:56556
+2019-08-06 13:40:57,508 - INFO - Server started with localhost:8000
+2019-08-06 13:42:26,453 - INFO - Server started with localhost:8000
+2019-08-06 13:50:30,410 - INFO - Server was started with localhost:8000
