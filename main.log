@@ -36,3 +36,4 @@ Client send valid request {'action': 'echo', 'time': 1564578896.033624, 'data': 
 2019-08-06 13:40:57,508 - INFO - Server started with localhost:8000
 2019-08-06 13:42:26,453 - INFO - Server started with localhost:8000
 2019-08-06 13:50:30,410 - INFO - Server was started with localhost:8000
+2019-08-09 16:00:11,465 - INFO - Server was started with localhost:8000
